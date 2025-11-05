@@ -38,9 +38,44 @@ El objetivo de esta práctica es **explorar y aplicar nuevas técnicas de visual
 
 ---
 
+## Visualizaciones finales
+
+### 1. Area Chart
+Representa la evolución temporal de una variable cuantitativa.  
+Permite apreciar **tendencias acumuladas y proporciones** a lo largo del tiempo.  
+
+![Area Chart](area_chart.png)
+
+**Objetivo comunicativo:**  
+Mostrar la evolución y el peso relativo de los valores en un periodo, destacando zonas de crecimiento y decrecimiento.
+
+---
+
+### 2. Waterfall Chart
+Descompone el cambio de un valor total en sus **incrementos y decrementos parciales**.  
+Se utiliza para **explicar variaciones netas** entre dos puntos.
+
+![Waterfall Chart](waterfall_chart.png)
+
+**Objetivo comunicativo:**  
+Visualizar cómo diferentes factores contribuyen positiva o negativamente a un resultado final (por ejemplo, beneficios netos o evolución de ingresos).
+
+---
+
+### 3. Connected Scatter Plot
+Conecta puntos en un diagrama de dispersión siguiendo el orden temporal.  
+Permite observar simultáneamente **correlación y evolución**.
+
+![Connected Scatter Plot](connected_scatter.png)
+
+**Objetivo comunicativo:**  
+Analizar cómo dos variables evolucionan conjuntamente en el tiempo, identificando direcciones de cambio, patrones cíclicos o rupturas de tendencia.
+
+---
+
 ## Fuentes de referencia
 
-Durante el desarrollo se consultaron los siguientes recursos especializados en visualización:
+Para la documentación de las técnicas se consultaron las siguientes webs:
 
 - [Data to Viz](https://www.data-to-viz.com/)
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/ES/)
@@ -48,24 +83,7 @@ Durante el desarrollo se consultaron los siguientes recursos especializados en v
 
 ---
 
-## Contenidos del vídeo explicativo
-
-El vídeo asociado a esta práctica sigue el siguiente esquema:
-
-1. **Presentación personal** y contexto de la práctica.  
-2. **Enlaces públicos** a las visualizaciones interactivas publicadas.  
-3. **Definición general** de cada técnica: origen, funcionamiento y ejemplos de aplicación.  
-4. **Tipo y estructura de datos** más adecuados para cada visualización.  
-5. **Demostración práctica** de la visualización creada en Python (Matplotlib / Plotly).  
-6. **Comentario analítico**:  
-   - Qué se representa.  
-   - Qué aspecto o patrón se destaca.  
-   - Qué objetivo comunicativo se busca.  
-   - Por qué la técnica elegida es adecuada para ese propósito.  
-
----
-
-## Tecnologías empleadas
+## Tecnologías utilizadas
 
 - **Lenguaje:** Python 3.x  
 - **Entorno:** Jupyter Notebook  
@@ -77,16 +95,10 @@ El vídeo asociado a esta práctica sigue el siguiente esquema:
 
 ---
 
-## Publicación
-
-Las visualizaciones finales se encuentran disponibles en línea (versión estática o interactiva) a través de **GitHub Pages**, siguiendo los criterios de accesibilidad sin registro.
-
----
-
 ## Autor
 
 **Nombre:** David Alvaro Berlanga
 **Asignatura:** Visualización de Datos  
 **Máster Universitario en Ciencia de Datos — UOC**  
-**Año académico:** 2025–2026  
+**Curso académico:** 2025–2026  
 
